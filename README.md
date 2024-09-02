@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nanda</h1>
 <h3 align="center">A passionate developer</h3>
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-nanda&label=Profile%20views&color=0e75b6&style=flat" alt="g-nanda" /> </p>
